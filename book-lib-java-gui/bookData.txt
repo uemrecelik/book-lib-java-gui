@@ -1,0 +1,6 @@
+1,title1,category1,namesurname1,award1,3,1999,150,desc1
+2,title2,category2,namesurname2,award2,2,2000,500,desc2
+3,title3,category1,namesurname1,award1,5,1999,150,desc3
+4,title4,category2,namesurname2,award2,4,2001,500,desc4
+5,title5,category1,namesurname1,award1,3,1999,150,desc5
+6,title6,category2,namesurname2,award2,1,2000,500,desc6
